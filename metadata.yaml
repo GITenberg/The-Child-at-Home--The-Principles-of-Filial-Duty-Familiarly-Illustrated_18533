@@ -1,0 +1,30 @@
+_repo: The-Child-at-Home--The-Principles-of-Filial-Duty-Familiarly-Illustrated_18533
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, John S. C. (John Stevens Cabot)
+    aliases:
+    - John S. C. (John Stevens Cabot) Abbott
+    - Abbott, John Stevens Cabot
+    birthdate: 1805
+    deathdate: 1877
+    gutenberg_agent_id: '1298'
+    url: http://www.gutenberg.org/2009/agents/1298
+    wikipedia: http://en.wikipedia.org/wiki/John_Stevens_Cabot_Abbott
+description: ''
+gutenberg_issued: '2006-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Children -- Conduct of life'
+title: 'The Child at Home: The Principles of Filial Duty, Familiarly Illustrated'
+url: http://www.gutenberg.org/ebooks/18533
